@@ -28,8 +28,10 @@ This repository contains a Power BI dashboard project designed to analyze and vi
 3. Refresh data if needed  
 4. Explore the dashboard using filters and visuals  
 
-## 📷 Dashboard Preview
- PowerBIMatrixPhoto.png
+## 📷 Power BI Preview
+
+![Power BI Matrix Photo](
+![Excel Dashboard](FinalProjectDashboard.png))
 
 ## 📁 Folder Structure
 ```
