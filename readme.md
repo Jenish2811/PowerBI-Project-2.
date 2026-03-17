@@ -30,7 +30,7 @@ This repository contains a Power BI dashboard project designed to analyze and vi
 
 ## 📷 Power BI Preview
 
-![Power BI Matrix Photo]()
+![Power BI Photo]()
 
 
 ## 📁 Folder Structure
