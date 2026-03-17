@@ -29,7 +29,7 @@ This repository contains a Power BI dashboard project designed to analyze and vi
 4. Explore the dashboard using filters and visuals  
 
 ## 📷 Dashboard Preview
-*(Add screenshots here for better presentation)*
+ PowerBIMatrixPhoto.png
 
 ## 📁 Folder Structure
 ```
