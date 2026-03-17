@@ -31,7 +31,7 @@ This repository contains a Power BI dashboard project designed to analyze and vi
 ## 📷 Power BI Preview
 
 ![Power BI Photo](PoweBIPhoto.png)
-![Power BI Photo2]()
+![Power BI Photo2](PowerBIPhoto2.png)
 
 
 ## 📁 Folder Structure
